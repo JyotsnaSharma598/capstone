@@ -1,5 +1,5 @@
 {
-  "private": false,
+  "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -19,13 +19,5 @@
     "autoprefixer": "^10.4.14",
     "postcss": "^8.4.26",
     "tailwindcss": "^3.3.3"
-  }
-}
-{
-  "name": "my_package",
-  "version": "1.0.0",
-  "dependencies": {
-    "my_dep": "^1.0.0",
-    "another_dep": "~2.2.0"
   }
 }
